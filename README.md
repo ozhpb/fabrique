@@ -1,5 +1,4 @@
 # fabrique
-python manage.py migrate
 python manage.py runserver
 
 Вход в админ. панель:
